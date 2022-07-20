@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
 }
 
 html, body {
@@ -10,7 +11,7 @@ html, body {
 }
 
 body {
-    background: #F5F5F5;
+    background: url(./assets/bg-image.jpg);
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -66,8 +67,11 @@ body {
     margin: 10px;
 }
 
+#img-pokemon{
+    text-align: center;
+}
+
 #content {
-    font-family: monospace;
     padding: 10px;
     background: #FFCC01;
     border: 1px solid #C8A102;
