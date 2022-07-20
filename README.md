@@ -30,6 +30,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 <br>
 
+![captura1](https://user-images.githubusercontent.com/89936463/180073089-fbdb8100-5d19-4c97-bbc1-b7feb3f86a5f.JPG)
+![Captura2](https://user-images.githubusercontent.com/89936463/180073101-71bfab0c-0574-44e4-b11e-718ac2019e11.JPG)
 
 
 <br>
