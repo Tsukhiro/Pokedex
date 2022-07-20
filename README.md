@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center">O projeto elaborado trata-se de uma Pokédex onde através do nome ou número de identificação do pokémon traz as informações através da API: <a href="https://pokeapi.co/">PokéApi</a> como, aparência do pokémon, nome e tipo. O layout da página foi elaborado pelo <a href="https://www.youtube.com/watch?v=vdytGGKyJKE">CódigoDev</a></p> e modificado por mim.
+<p align="center">O projeto elaborado trata-se de uma Pokédex onde através do nome ou número de identificação do pokémon traz as informações através da API: <a href="https://pokeapi.co/">PokéApi</a> como, aparência do pokémon, nome e tipo. O layout da página foi elaborado pelo <a href="https://www.youtube.com/watch?v=vdytGGKyJKE">CódigoDev</a> e modificado por mim. Esse projeto tem a finalidade acadêmica, trazendo um aprimoramento e fixação do conteúdo transmitido pelo canal CódigoDev.</p>
 <h4 align="center"> 
 	🚧 Status: Projeto Finalizado  🚧
 </h4>
