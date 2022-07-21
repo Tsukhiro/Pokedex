@@ -29,7 +29,7 @@ form.addEventListener('submit', function(e) {
         })
 
         .catch(function(error){
-            if(error == 'SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data'){
+            if(error == 'SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data' || 'SyntaxError: Unexpected token N in JSON at position 0'){
                 html = 'Pokémon not found! 😢 <br> Check if the name or number is correct.'
             } else {
                 html = error
